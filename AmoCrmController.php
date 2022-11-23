@@ -16,8 +16,8 @@ class AmoCrmController
                 $data = [
                     [
                         'name' => $array['FORM'],
-                        'status_id' => 28644250,
-                        'pipeline_id' => 1873699,
+                        'status_id' => '',
+                        'pipeline_id' => '',
                         '_embedded' => [
                             'contacts' => [
                                 0 => [
@@ -52,8 +52,8 @@ class AmoCrmController
                 $data = [
                     [
                         'name' => $array['FORM'],
-                        'status_id' => 28644250,
-                        'pipeline_id' => 1873699,
+                        'status_id' => '',
+                        'pipeline_id' => '',
                         '_embedded' => [
                             'contacts' => [
                                 0 => [
